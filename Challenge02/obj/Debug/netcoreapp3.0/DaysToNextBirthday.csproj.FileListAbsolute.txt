@@ -1,0 +1,11 @@
+/home/adi/Downloads/csharp-challenges-master/Challenge02/obj/Debug/netcoreapp3.0/DaysToNextBirthday.csprojAssemblyReference.cache
+/home/adi/Downloads/csharp-challenges-master/Challenge02/obj/Debug/netcoreapp3.0/DaysToNextBirthday.AssemblyInfoInputs.cache
+/home/adi/Downloads/csharp-challenges-master/Challenge02/obj/Debug/netcoreapp3.0/DaysToNextBirthday.AssemblyInfo.cs
+/home/adi/Downloads/csharp-challenges-master/Challenge02/bin/Debug/netcoreapp3.0/DaysToNextBirthday
+/home/adi/Downloads/csharp-challenges-master/Challenge02/bin/Debug/netcoreapp3.0/DaysToNextBirthday.deps.json
+/home/adi/Downloads/csharp-challenges-master/Challenge02/bin/Debug/netcoreapp3.0/DaysToNextBirthday.runtimeconfig.json
+/home/adi/Downloads/csharp-challenges-master/Challenge02/bin/Debug/netcoreapp3.0/DaysToNextBirthday.runtimeconfig.dev.json
+/home/adi/Downloads/csharp-challenges-master/Challenge02/bin/Debug/netcoreapp3.0/DaysToNextBirthday.dll
+/home/adi/Downloads/csharp-challenges-master/Challenge02/bin/Debug/netcoreapp3.0/DaysToNextBirthday.pdb
+/home/adi/Downloads/csharp-challenges-master/Challenge02/obj/Debug/netcoreapp3.0/DaysToNextBirthday.dll
+/home/adi/Downloads/csharp-challenges-master/Challenge02/obj/Debug/netcoreapp3.0/DaysToNextBirthday.pdb

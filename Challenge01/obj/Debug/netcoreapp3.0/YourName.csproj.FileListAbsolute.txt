@@ -1,0 +1,11 @@
+/home/adi/Downloads/csharp-challenges-master/Challenge01/bin/Debug/netcoreapp3.0/YourName
+/home/adi/Downloads/csharp-challenges-master/Challenge01/bin/Debug/netcoreapp3.0/YourName.deps.json
+/home/adi/Downloads/csharp-challenges-master/Challenge01/bin/Debug/netcoreapp3.0/YourName.runtimeconfig.json
+/home/adi/Downloads/csharp-challenges-master/Challenge01/bin/Debug/netcoreapp3.0/YourName.runtimeconfig.dev.json
+/home/adi/Downloads/csharp-challenges-master/Challenge01/bin/Debug/netcoreapp3.0/YourName.dll
+/home/adi/Downloads/csharp-challenges-master/Challenge01/bin/Debug/netcoreapp3.0/YourName.pdb
+/home/adi/Downloads/csharp-challenges-master/Challenge01/obj/Debug/netcoreapp3.0/YourName.csprojAssemblyReference.cache
+/home/adi/Downloads/csharp-challenges-master/Challenge01/obj/Debug/netcoreapp3.0/YourName.AssemblyInfoInputs.cache
+/home/adi/Downloads/csharp-challenges-master/Challenge01/obj/Debug/netcoreapp3.0/YourName.AssemblyInfo.cs
+/home/adi/Downloads/csharp-challenges-master/Challenge01/obj/Debug/netcoreapp3.0/YourName.dll
+/home/adi/Downloads/csharp-challenges-master/Challenge01/obj/Debug/netcoreapp3.0/YourName.pdb
